@@ -2,24 +2,24 @@
 Variable Assignment
 '''
 
-# # add 'mam' to the variable 'name'
-# name = "Mam"
-# print (name)
+# add 'mam' to the variable 'name'
+name = "Mam"
+print (name)
 
 # =================
 
 # assign same value to multiple variables on the same line
-# a = b = c = 'cat'
-# print (a)
-# print (b)
-# print (c)
+a = b = c = 'cat'
+print (a)
+print (b)
+print (c)
 
 # =================
 
 #reuse variale names, the last assignment is printed 
-# colour = 'Red'
-# colour = 'Blue'
-# print (colour)
+colour = 'Red'
+colour = 'Blue'
+print (colour)
 
 # =================
 
